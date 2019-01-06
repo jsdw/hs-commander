@@ -69,6 +69,3 @@ you can run the example code by running `stack install :example1 && example1` as
 
 if you clone this repository locally somewhere, you can use `stack haddock` inside its folder in order to generate haddock documentation for it.
 
-# Disclaimer
-
-This project is still under heavy development and could well change drastically!
